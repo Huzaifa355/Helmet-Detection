@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Helmet Detection using YOLOv8
 
 A computer vision project for detecting helmets in images/videos using YOLOv8. Ideal for safety compliance monitoring in construction sites, motorsports, or industrial environments.
